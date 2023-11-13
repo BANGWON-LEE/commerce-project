@@ -1,0 +1,51 @@
+.content-block{
+   width: 100%;
+   height: auto;
+}
+
+.content-block_inner{
+   width: 400px;
+   margin: 0 auto;
+   padding: 200px 0px;
+}
+
+.title-block{
+   margin: 0 auto;
+}
+
+.project-title{
+   text-align: center;
+}
+
+.login-block{
+   margin: 0 auto;
+}
+
+.login-block_inner{
+   display: flex;
+   justify-content: space-between;
+   width: 300px;
+   margin: 0 auto;
+   align-items: baseline;
+   padding: 15px;
+   border: 1px solid #333;
+   border-radius: 15px;
+}
+.sns-login_block{
+   background-color: transparent;
+   border: none;
+   cursor: pointer;
+}
+
+
+.sns-icon{
+   max-width: 45px;
+   max-height: 45px;
+
+}
+
+#facebook-icon{
+   width: 50px;
+   height: 50px;
+   background-color: transparent
+}

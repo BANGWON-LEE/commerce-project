@@ -1,0 +1,29 @@
+body {
+   font-family: sans-serif;
+   font-size: 16px;
+   color: #000;
+   margin: 0;
+ }
+ 
+ a {
+   color: #000;
+   text-decoration: none;
+ }
+ 
+ h1 {
+   font-size: 24px;
+   font-weight: bold;
+ }
+ 
+ p {
+   margin: 0 0 10px 0;
+   padding: 0 10px;
+ }
+ 
+ ul {
+   list-style-type: none;
+ }
+ 
+ li {
+   margin-bottom: 5px;
+ }
